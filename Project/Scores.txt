@@ -1,0 +1,3 @@
+Difficulty: 1 User_Initial: AAA Score: 90
+Difficulty: 1 User_Initial:     Score: 90
+Difficulty: 1 User_Initial: AAA Score: 70
